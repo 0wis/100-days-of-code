@@ -2,14 +2,14 @@
 
 ### Day 0: September 5, 2019
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Forked GitHub 100-days of code, made a statement on Twitter, setup my desktop and started reading
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** At last, it beguns ! Everything seems to take much more time than I thought. Happy to start !
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** This repo
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 1: September 6, 2019
+##### Let it be at last the first day !
 
 **Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
 
